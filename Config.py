@@ -27,6 +27,6 @@ class Messages():
         
        "**Devloped By @Bad_Bunny_444**"
       ]
-      Source = <a href=https://t.me/Bad_Bunny_444>ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a>"""
+      
 
       START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help__
